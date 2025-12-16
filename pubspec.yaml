@@ -1,7 +1,7 @@
 name: suppress_soft_keyboard_focus_node
 description: "A new Flutter project."
 version: 0.0.1
-homepage:
+homepage: https://github.com/yalong0521/suppress_soft_keyboard_focus_node
 
 environment:
   sdk: '>=3.3.4 <4.0.0'
